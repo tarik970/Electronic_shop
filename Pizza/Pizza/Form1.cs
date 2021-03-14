@@ -40,7 +40,7 @@ namespace Pizza
         }
           private void Form1_Load(object sender, EventArgs e)
         {
-            
+              //edit
         }
 
         private void buttonSiparisAl_Click(object sender, EventArgs e)
